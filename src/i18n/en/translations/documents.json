@@ -1,0 +1,103 @@
+{
+  "general": {
+    "uploading_of_doc": "Document upload",
+    "replace_uploaded_file": "Replace uploaded file",
+    "mark_as_viewed": "Mark as viewed",
+    "download_all": "Download all",
+    "evolvo_commercial_offer": "Evolvo commercial offer",
+    "commercial_offer": "Commercial offer",
+    "company_application": "Company application",
+    "invoice_number": "Invoice No.",
+    "invoice_receiver": "Invoice receiver",
+    "seen": "Seen",
+    "suppliers_agreements": "Supplier agreements",
+    "supplier_agreement": "Supplier agreement",
+    "client_agreement": "Client agreement",
+    "contract_no": "Contract No.:"
+  },
+
+  "controls": {
+    "upload": "Upload",
+    "create_new": "Create new",
+    "download": "Download",
+    "upload_template": "Upload template",
+    "create_from_template": "Create from template"
+  },
+
+  "labels": {
+    "choose_doc_type": "Choose document type...",
+    "type_of_agreement": "Type of agreement",
+    "choose_doc_template": "Choose document template...",
+    "sprint": "Sprint",
+    "signature_needed": "Signature needed",
+    "signed": "Signed",
+    "project_name": "Project name",
+    "current_system_description": "Description about current system",
+    "items_separated_by_tabs_enter": "Items are separated by \"tab\" or \"enter\"",
+    "third_party_web_services": "Third party web services",
+    "planned_tasks": "Planned tasks",
+    "duration_in_days": "Duration in days",
+    "valid_from": "Valid from",
+    "file": "File",
+    "document_date": "Document date",
+    "doc_no": "Doc. No.",
+    "lead": "Lead",
+    "architecture_and_technologies": "Architecture and technologies",
+    "project_info": "Project info",
+    "new_contract_supplement": "New supplement for sprint",
+    "new_delivery_acceptance_cert": "New delivery acceptance act",
+    "view_supplements": "View supplements"
+  },
+
+  "types": {
+    "received_invoice": "Received invoice",
+    "sent_invoice": "Sent invoice",
+    "client_agreement": "Client agreement",
+    "supplier_agreement": "Supplier agreement",
+    "employee_document": "Employee document",
+    "company_request": "Company request",
+    "commercial_offer": "Commercial offer"
+  },
+
+  "modal_titles": {
+    "new_commercial_offer": "New commercial offer",
+    "edit_commercial_offer": "Edit commercial offer",
+    "new_vacation_application": "New vacation application",
+    "edit_vacation_application": "Edit vacation application"
+  },
+
+  "employee_document_types": {
+    "salary_transfer_application": "Salary transfer application",
+    "employment_application": "Employment application",
+    "applying_non_taxable_income_application": "NTI application",
+    "employment_agreement": "Employment agreement",
+    "vacation_application": "Vacation application",
+    "resign_application": "Resignation application",
+    "nid": "NIN",
+    "other": "Other",
+    "order": "Order",
+
+    "non_disclosure_agreement": "Non disclosure agreement",
+    "contract": "Contract",
+    "contract_supplement": "Contract supplement for sprint",
+    "contract_with_supplement": "Contract and supplement for sprint",
+    "service_agreement": "Service agreement",
+    "service_agreement_supplement": "Service agreement supplement for sprint",
+    "service_agreement_with_supplement": "Service agreement with supplement for sprint",
+    "delivery_acceptance_cert": "Delivery acceptance cert"
+  },
+
+  "client_agreement_types": {
+    "sprint_agreement": "Sprint agreement",
+    "act": "Act",
+    "non_disclosure_agreement": "Non disclosure agreement",
+    "contract": "Contract",
+    "contract_supplement": "Contract supplement for sprint",
+    "contract_with_supplement": "Contract and supplement for sprint",
+    "service_agreement": "Service agreement",
+    "service_agreement_supplement": "Service agreement supplement for sprint",
+    "service_agreement_with_supplement": "Service agreement with supplement for sprint",
+    "delivery_acceptance_cert": "Delivery acceptance cert",
+    "undefined": ""
+  }
+}

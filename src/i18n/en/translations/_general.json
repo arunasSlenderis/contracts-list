@@ -1,0 +1,272 @@
+{
+  "date_and_time": {
+    "calendar": "Calendar",
+    "start_date": "Start date",
+    "end_date": "End date",
+    "closing_date": "Closing date",
+    "date": "Date",
+    "period": "Period",
+    "starts_at": "Starts at",
+    "ends_at": "Ends at",
+    "progress": "Progress",
+    "from": "From",
+    "to": "To",
+    "valid_until": "Valid until",
+    "expires_at": "Expires at",
+    "day_count": "Day count",
+    "created_at": "Created at",
+    "todays_birthdays": "Today`s birthdays",
+    "tomorrows_birthdays": "Tomorrow`s birthdays",
+    "this_months_birthdays": "This month`s birthdays"
+},
+
+  "actions": {
+    "done": "Done",
+    "active": "Active",
+    "approved": "Approved",
+    "paid": "Paid"
+  },
+
+  "controls": {
+    "save": "Save",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "remove": "Remove",
+    "preview": "Preview",
+    "open_file": "Open file",
+    "show_total_points": "Show total points",
+    "send": "Send",
+    "stop_impersonating": "Stop impersonating",
+    "logout": "Logout",
+    "login": "Login",
+    "okay": "OK",
+    "create_new": "Create new",
+    "impersonate": "Impersonate",
+    "suspend": "Suspend",
+    "activate": "Activate",
+    "new": "New",
+    "assign_existing_plural": "Assign existing",
+    "copy": "Copy",
+    "share": "Share",
+    "yes": "Yes",
+    "no": "No",
+    "upload_document": "Upload document",
+    "create": "Create",
+    "confirm": "Confirm"
+  },
+
+  "common_contact_info": {
+    "bank_account_no": "Bank account No.",
+    "address": "Address",
+    "bank": "Bank",
+    "email": "Email",
+    "phone": "Phone",
+    "phone_short": "Phone",
+    "contacts": "Contacts",
+    "login_name": "Login",
+    "password": "Password"
+  },
+
+  "personal_info": {
+    "first_name": "Fist name",
+    "last_name": "Last name",
+    "position": "Position",
+    "full_name": "Full name"
+  },
+
+  "company_info": {
+    "company_code": "Company code",
+    "vat_code": "VAT code",
+    "vat_payer_since": "VAT payer since",
+    "vat_payer_until": "VAT payer until",
+    "public_email": "Public email",
+    "public_phone": "Public phone No.",
+    "representative_name": "Representative name",
+    "representative_title": "Representative title",
+    "departments": "Departments"
+  },
+
+  "modal_titles": {
+    "new_contact": "New contact",
+    "edit_contact": "Edit contact",
+
+    "new_project": "New project",
+
+    "new_category": "New category",
+    "edit_category": "Edit category",
+
+    "new_password": "New password",
+    "edit_password": "Edit password"
+  },
+
+  "confirmations": {
+    "remove_entry": "Do you really want to remove this entry?",
+    "are_you_sure": "Are You sure?",
+    "remove_comment": "Remove comment?"
+  },
+
+  "filters": {
+    "clear_filter": "Clear filter",
+    "filter": "Filter",
+    "filters": "Filters"
+  },
+
+  "locale": {
+    "choose_language": "Choose a language",
+    "language": "Language",
+    "english": "English",
+    "lithuanian": "Lithuanian",
+    "in_english": "In English",
+    "in_lithuanian": "In Lithuanian"
+  },
+
+  "docs": {
+    "employment_agreement": "Employment Agreement",
+    "salary_application": "Salary application",
+    "applying_non_taxable_income_application": "NTI application",
+    "employment_application": "Employment application"
+  },
+
+  "validations": {
+    "required_field": "Required field",
+    "wrong_email": "Enter a valid email"
+  },
+
+  "$vuetify": {
+    "dataIterator": {
+      "rowsPerPageText": "Items per page:",
+      "rowsPerPageAll": "All",
+      "pageText": "{0}-{1} of {2}",
+      "noResultsText": "No matching records found",
+      "nextPage": "Next page",
+      "prevPage": "Previous page"
+    },
+    "dataTable": {
+      "rowsPerPageText": "Rows per page:"
+    },
+    "noDataText": "No data available"
+  },
+
+  "team": "Team",
+  "teams": "Teams",
+  "client": "Client",
+  "candidates": "Candidates",
+  "supplier": "Supplier",
+  "suppliers": "Suppliers",
+  "employee": "Employee",
+  "employees": "Employees",
+  "training": "Training",
+  "responsible_employee": "Responsible employee",
+  "leads": "Leads",
+  "lead": "Lead",
+  "receiver": "Receiver",
+  "user": "User",
+  "users": "Users",
+  "surveys": "Surveys",
+
+  "event": "Event",
+  "goal": "Goal",
+  "type": "Type",
+  "system": "System",
+  "category": "Category",
+  "subcategory": "Subcategory",
+  "contract": "Contract",
+  "clients_agreements": "Client agreements",
+  "supplier_agreements": "Supplier agreements",
+  "vacation_paid": "Paid vacation",
+  "vacation_unpaid": "Unpaid vacation",
+  "expenses": "Expenses",
+  "earnings": "Income",
+  "turnover": "Turnover",
+  "tasks": "Tasks",
+  "issues": "issues",
+  "issue": "Issue",
+  "ongoing_sprints": "Ongoing sprints",
+  "upcoming_events": "Upcoming events",
+  "newsletters": "Newsletters",
+  "time_tracking": "Time tracking",
+  "daily_tools": "Daily tools",
+  "password_management": "Password management",
+  "communication": "Communication",
+  "company_management": "Company management",
+  "strategic_plan": "Strategic plan",
+  "resource_management": "Resource management",
+  "long_term_assets": "Assets",
+  "external_systems": "External systems",
+  "testimonials": "Testimonials",
+  "client_testimonials": "Client testimonials",
+  "evolvo_eu_management": "evolvo.eu management",
+
+  "documents": "Documents",
+  "employee_documents": "Employee documents",
+  "invoice": "Invoice",
+  "invoices": "Invoices",
+  "planning": "Planning",
+  "received_invoices": "Received invoices",
+  "sent_invoices": "Sent invoices",
+  "project": "Project",
+  "projects": "Projects",
+  "sprint": "Sprint",
+  "categories": "Categories",
+  "commercial_offers": "Commercial offers",
+  "company_applications": "Company applications",
+  "finances": "Finances",
+  "statistics": "Statistics",
+  "contracts": "Contracts",
+  "non_disclosure_agreements": "Non disclosure agreements",
+  "contracts_with_supplements": "Contracts with supplements",
+  "service_agreements": "Service agreements",
+
+  "description": "Description",
+  "title": "Title",
+  "no": "No.",
+  "comment": "Comment",
+  "status": "Status",
+  "amount": "Amount",
+  "price": "Price",
+  "sum": "Sum",
+  "vat": "VAT",
+  "unit": "unit.",
+  "total": "Total",
+  "all": "All",
+  "total_short": "Total",
+  "contact_info": "Contact info",
+  "url": "URL",
+  "role": "Role",
+  "event_type": "Event type",
+  "invoice_no": "Invoice No.",
+  "salary": "Salary",
+
+  "comments": "Comments",
+  "add_comment": "Add comment",
+  "expand_comments": "Expand comments",
+  "retract_comments": "Retract comments",
+
+  "search_by_name": "Search by company name, first name and last name",
+  "assign_category_to_company": "Assign category to company",
+  "recently_updated_clients": "Recently updated clients",
+  "crypto_currency_rates": "Cryptocurrency rates",
+  "assigned_to_employee": "Assigned to employee",
+  "cant_cancel_this_action": "This action can`t be canceled.",
+  "importing_project": "Importing project...",
+  "no_reminders": "No reminders present",
+  "my_account": "My account",
+  "project_imported": "Project imported",
+  "project_management": "Projects",
+  "no_data": "No data.",
+
+  "choose_file": "Choose file",
+  "choose_employee": "Choose employee",
+
+  "search": "Search",
+  "settings": "Settings",
+  "extra_info": "Extra info",
+  "not_specified": "unspecified",
+  "icon": "Icon",
+  "done": "Done",
+  "ratings": "Ratings",
+  "template": "Template",
+  "erp_company": "ERP Company",
+  "contact": "Contact"
+}
